@@ -42,3 +42,6 @@ Before you start, ensure you have the following:
 
    ```shell
    git clone https://github.com/yourusername/your-repo.git
+   ## Author
+[![Author](https://img.shields.io/badge/Author-TruongCaoVan-brightgreen.svg)](https://github.com/truong20031456)
+   
